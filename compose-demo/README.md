@@ -8,6 +8,8 @@ concepts I picked up while making it.
 A Flask web service that increments a hit counter stored in Redis. Two
 services, wired together with Compose.
 
+![Docker Compose architecture](docker_compose_architecture.png)
+
 ## What I learned
 
 ### 1. Splitting Compose files with `include`
